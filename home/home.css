@@ -1,0 +1,16 @@
+.head {
+    border: 1px solid #ccc;
+    min-height: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+.nav{
+    margin: 5px;
+    text-align: center;
+    background-color: #72C953;
+}
+.footer {
+    height: 70px;
+    width: 70px;
+    line-height: 70px;
+}
