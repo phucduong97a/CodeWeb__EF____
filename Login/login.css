@@ -1,0 +1,22 @@
+.container_login {
+    display: flex;
+    justify-content: center;
+    /*align-items: center;*/
+    margin-top: 300px;
+
+}
+.login {
+    width: 250px;
+    height: 400px;
+    border: 3px solid royalblue;
+    text-align: center;
+    border-radius: 10px;
+    background: coral;
+    /*align-content: center;*/
+
+}
+input{
+    border-radius: 10px;
+    width: 200px;
+    height:40px;
+}
