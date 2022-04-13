@@ -11,7 +11,10 @@
     border: 3px solid royalblue;
     text-align: center;
     border-radius: 10px;
-    background: coral;
+    /*background: coral;*/
+    background-color: #ff9900;
+    /*background-position: center;*/
+    background-attachment: fixed;
     /*align-content: center;*/
 
 }
