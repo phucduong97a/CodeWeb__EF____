@@ -24,11 +24,31 @@
 }
 
 
-nav-list {
+#nav-list {
     display: flex;
     padding-left: 0;
     margin: auto 16px;
 }
+
+#nav-list li {
+    background: coral;
+    line-height: 30px;
+    margin: 2px;
+    list-style: none;
+}
+
+#nav-list li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+#nav-list ul {
+    display: none;
+    background: #ff9900;
+
+
+}
+
 
 .footer {
     width: auto;
@@ -36,7 +56,6 @@ nav-list {
     background-color: #22b1ef;
     flex-direction: row;
 }
-git
 li {
     display: inline;
     transition: 0.3s;
@@ -67,6 +86,7 @@ ul.cap_2 li {
     padding: 0;
     text-align: center;
     cursor: pointer;
+
 }
 
 /*.xy:hover{*/
